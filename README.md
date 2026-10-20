@@ -4,4 +4,5 @@ Reproducible Raspberry Pi cluster setup with automated provisioning and monitori
 
 ## License
 
-TBA
+Copyright © 2026 Wilhelm Steinleitner  
+This work (source code) is licensed under [MIT](./LICENSE).
